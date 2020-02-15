@@ -61,7 +61,7 @@ footer{
 
 }
 
-/* .results{
+.results{
   font-family: 'Sarabun', sans-serif;
   color: black;
   color: #616161;
@@ -69,7 +69,7 @@ footer{
   font-size: 20px;
   background-color: rgba(255, 255, 255, 0.8);
   box-shadow: 1px 1px 1px 1px #888888;
-} */
+} 
 .box{
   background-color: #606060;
   color: #fff;

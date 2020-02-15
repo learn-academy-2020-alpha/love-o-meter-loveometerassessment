@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../App.css';
 
-export default class Valentines extends Component{
+export default class GoodMatch extends Component{
   render(){
     return (
       <>
